@@ -33,7 +33,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-vercel.*.json
+# vercel.*.json
 
 # graphql-let
 __generated__
